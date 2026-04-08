@@ -1,0 +1,8 @@
+*.class
+*.jar
+*.exe
+*.o
+.idea/
+out/
+target/
+*.iml
